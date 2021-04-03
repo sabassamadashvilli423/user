@@ -1,0 +1,6 @@
+﻿  User.cpp
+  user 1.cpp
+C:\Users\Zauri\source\repos\user 1\user 1\user 1.cpp(9,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zauri\source\repos\user 1\user 1\user 1.cpp(10,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  user 1.vcxproj -> C:\Users\Zauri\source\repos\user 1\Debug\user 1.exe
